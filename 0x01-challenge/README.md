@@ -16,6 +16,3 @@ You should not recode everything, just fix it!
 | 4. Never leave the office | [react-blog](https://github.com/Oliveth96/Fix_My_Code_Challenge/0x01-challenge/react-blog)| I’m coming back from 2 weeks of holidays in France and when I arrived at the office, the first words from my marketing co-worker were: “Hi, how was your holiday? by the way, I think I broke the website.. Arf, I have also the pagination to fix… I didn’t have time before my break to look at it|
 
 
-<h3>AUTHOR</h3>
-<hr>
-[Oliveth Ndubuka](https://github.com/Oliveth96)
